@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wzhiy/OneDrive/Desktop/MLops/mlops-zoomcamp/02-Experiment_Tracking/mlruns/0/88a03770d26b4995b0dd038cc527bfa2/artifacts
+end_time: 1748379512615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88a03770d26b4995b0dd038cc527bfa2
+run_name: puzzled-lark-824
+run_uuid: 88a03770d26b4995b0dd038cc527bfa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748379503891
+status: 3
+tags: []
+user_id: wzhiy

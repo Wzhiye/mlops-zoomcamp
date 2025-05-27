@@ -1,4 +1,4 @@
-01-intro/*.joblib
+
 data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -7,6 +7,8 @@ __pycache__/
 
 # C extensions
 *.so
+
+*.joblib
 
 # Distribution / packaging
 .Python
