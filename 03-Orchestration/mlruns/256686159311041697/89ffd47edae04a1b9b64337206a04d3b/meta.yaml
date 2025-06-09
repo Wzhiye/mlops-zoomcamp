@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256686159311041697/89ffd47edae04a1b9b64337206a04d3b/artifacts
+end_time: 1749479364830
+entry_point_name: ''
+experiment_id: '256686159311041697'
+lifecycle_stage: active
+run_id: 89ffd47edae04a1b9b64337206a04d3b
+run_name: puzzled-boar-594
+run_uuid: 89ffd47edae04a1b9b64337206a04d3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749479351313
+status: 3
+tags: []
+user_id: wen

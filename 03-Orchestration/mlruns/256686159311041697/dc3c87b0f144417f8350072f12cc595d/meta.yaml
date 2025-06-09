@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256686159311041697/dc3c87b0f144417f8350072f12cc595d/artifacts
+end_time: 1749468958923
+entry_point_name: ''
+experiment_id: '256686159311041697'
+lifecycle_stage: active
+run_id: dc3c87b0f144417f8350072f12cc595d
+run_name: polite-calf-692
+run_uuid: dc3c87b0f144417f8350072f12cc595d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749468918329
+status: 3
+tags: []
+user_id: wen

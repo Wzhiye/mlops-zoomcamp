@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256686159311041697/87dab723dc1540918282f1102c4cce54/artifacts
+end_time: 1749479270680
+entry_point_name: ''
+experiment_id: '256686159311041697'
+lifecycle_stage: active
+run_id: 87dab723dc1540918282f1102c4cce54
+run_name: blushing-auk-334
+run_uuid: 87dab723dc1540918282f1102c4cce54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749479257292
+status: 4
+tags: []
+user_id: wen
